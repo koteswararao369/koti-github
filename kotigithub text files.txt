@@ -1,7 +1,5 @@
-adding new text files
-
-
-hjgjdgtjthk
-123457898765434567898765432
-
-ytd
+disabled_rules:
+  - line_length
+excluded:
+  - Pods
+  - Carthage
